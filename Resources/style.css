@@ -1,0 +1,13 @@
+h2 {
+  color: white;
+}
+html {
+  font-family: helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+}
+ul li {
+  text-decoration: underline;
+}
